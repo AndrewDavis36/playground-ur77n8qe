@@ -3,7 +3,7 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('It's a Hard Knock life!')
+print('Get in the boat')
 ```
 
 # Advanced usage
